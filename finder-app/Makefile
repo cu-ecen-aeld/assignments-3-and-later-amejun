@@ -1,6 +1,5 @@
 CC := gcc
 CFLAGS := -Wall -Wextra
-LDFLAGS := -lsystemd
 
 TARGET := writer
 
